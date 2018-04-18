@@ -1,3 +1,3 @@
 # openshift-test-php
 
-A test app
+A simple php test app
